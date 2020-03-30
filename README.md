@@ -6,7 +6,6 @@ My Assets App is an application to manage your assets. This app has :
 &nbsp;
 
 ## RESTful endpoints
----
 ### GET /assets
 
 > Get all assets
@@ -49,7 +48,6 @@ _Response (400 - Bad Request)_
   "message": "<returned error message>"
 }
 ```
----
 ### POST /assets
 
 > Create new asset
