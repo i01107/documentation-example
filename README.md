@@ -48,6 +48,7 @@ _Response (400 - Bad Request)_
   "message": "<returned error message>"
 }
 ```
+---
 ### POST /assets
 
 > Create new asset
