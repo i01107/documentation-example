@@ -27,15 +27,15 @@ _Response (200)_
 [
   {
     "id": 1,
-    "name": "Car",
-    "description": "Mercedes Benz GLA 200",
+    "name": "<asset name>",
+    "description": "<asset description>",
     "createdAt": "2020-03-20T07:15:12.149Z",
     "updatedAt": "2020-03-20T07:15:12.149Z",
   },
   {
     "id": 2,
-    "name": "Laptop",
-    "description": "MacBook Pro 13 inch 2020",
+    "name": "<asset name>",
+    "description": "<asset description>",
     "createdAt": "2020-03-20T07:15:12.149Z",
     "updatedAt": "2020-03-20T07:15:12.149Z",
   }
