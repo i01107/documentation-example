@@ -45,7 +45,7 @@ _Response (200)_
 _Response (400 - Bad Request)_
 ```
 {
-  "message": "<returned error message>"
+  "message": "Invalid request"
 }
 ```
 ---
@@ -82,6 +82,6 @@ _Response (201 - Created)_
 _Response (400 - Bad Request)_
 ```
 {
-  "message": "<returned error message>"
+  "message": "Invalid requests"
 }
 ```
