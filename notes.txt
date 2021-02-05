@@ -1,0 +1,4 @@
+Notes for this documentation :
+1. You can add other tech stack, which is used to build this app
+2. You can add global responses as per needed ( 402, 500, etc)
+3. Choose 1 alternative for DELETE endpoints
